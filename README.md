@@ -1,4 +1,4 @@
-# Analise da COVID-10
+# Analise da COVID-19
 
 ### Danilo Caiena Rodrigues
 
